@@ -2,11 +2,8 @@
 
 ## About Me
 - Backend Developer
-- PM 역할을 목표로 성장 중
+- PM을 목표로 성장 중
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=The-gallery-00)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=The-gallery-00)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=The-gallery-00&show_icons=true&theme=tokyonight)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=The-gallery-00)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlmbDE3dXcxYjdyMmhjcWZoMzhhanNmOGE5NW9wbWhuZ2FpOHA5ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oj3ikZnoJBp2Oq7yBX/200w.gif" width="320" />
+</p>
